@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.head_foot{
+    color: white;
+    font-style:oblique;
+
+    width: 100%;
+}
+main{
+    color: white;
+}
+
+footer{
+    margin: 100% 0 0 0;
+    text-align: center;
+}
+
+div{
+   
+    font-size: large ;
+    margin: 100px 0 100px 0;
+    
+    
+    width: 60%;
+    height: 30%;
+    float: left;
+}
+
+p ,h1 ,h3{
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+img{
+    float:right;
+    width: 35%;
+    height: 35%;
+    margin: 80px 0 80px 0;
+}
